@@ -7,6 +7,10 @@ public class XX {
         System.out.println("CCCCCC");
         System.out.println("CCCCCC");
         System.out.println("CCCCCC");
+        System.out.println("CCCCCC");
+        System.out.println("CCCCCC");
+        System.out.println("CCCCCC");
+        System.out.println("CCCCCC");
 
 
     }
