@@ -6,12 +6,7 @@ public class XX {
     public static void main(String[]args){
         System.out.println("CCCCCC");
         System.out.println("CCCCCC");
-        System.out.println("CCCCCC");
-        System.out.println("CCCCCC");
-        System.out.println("CCCCCC");
-        System.out.println("CCCCCC");
-        System.out.println("CCCCCC");
-
+        System.out.println("xxxx");
 
     }
 
